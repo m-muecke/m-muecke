@@ -1,5 +1,6 @@
-- 🔭 Mainly working with Python, R, TypeScript.
-- 📫 Send me an email for possible collaboration or consulting.
+- Primarily working with Python, R, TypeScript.
+- Mainly interested in ML, time series, finance topics.
+- Send me an [email](mailto:muecke.maximilian@gmail.com) for possible collaboration or consulting work.
 
 <!--
 **m-muecke/m-muecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
