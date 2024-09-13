@@ -2,6 +2,14 @@
 - Mainly interested in ML, time series, finance topics.
 - Send me an [email](mailto:muecke.maximilian@gmail.com) for possible collaboration or consulting work.
 
+📚 R Packages on CRAN:
+
+- [worldbank](https://github.com/m-muecke/worldbank)
+- [bbk](https://github.com/m-muecke/bbk)
+- [isocountry](https://github.com/m-muecke/isocountry)
+- [treasury](https://github.com/m-muecke/treasury)
+- [ifo](https://github.com/m-muecke/treasury)
+
 <!--
 **m-muecke/m-muecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
