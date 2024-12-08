@@ -1,5 +1,5 @@
 - Currently, mainly working with Python, R, TypeScript.
-- Mainly interested in ML, time series, finance topics.
+- Mainly interested in statistics, machine learning, and finance topics.
 - Send me an [email](mailto:muecke.maximilian@gmail.com) for possible collaboration or consulting work.
 
 📚 R Packages on CRAN:
