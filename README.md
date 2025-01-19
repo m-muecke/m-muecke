@@ -1,14 +1,13 @@
-- Currently, mainly working with Python, R, TypeScript.
-- Mainly interested in ML, time series, finance topics.
-- Send me an [email](mailto:muecke.maximilian@gmail.com) for possible collaboration or consulting work.
+- Currently, mainly working with R, Python, TypeScript.
+- Mainly interested in statistics, machine learning, and finance topics.
 
 📚 R Packages on CRAN:
 
-- [worldbank](https://github.com/m-muecke/worldbank)
 - [bbk](https://github.com/m-muecke/bbk)
+- [ifo](https://github.com/m-muecke/ifo)
 - [isocountry](https://github.com/m-muecke/isocountry)
 - [treasury](https://github.com/m-muecke/treasury)
-- [ifo](https://github.com/m-muecke/ifo)
+- [worldbank](https://github.com/m-muecke/worldbank)
 
 <!--
 **m-muecke/m-muecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
