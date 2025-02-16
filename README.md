@@ -1,5 +1,4 @@
-- Currently, mainly working with R, Python, TypeScript.
-- Mainly interested in statistics, machine learning, and finance topics.
+Mainly interested in statistics, machine learning, and finance.
 
 📚 R Packages on CRAN:
 
