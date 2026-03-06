@@ -3,6 +3,7 @@ Mainly interested in statistics, machine learning, and finance.
 📚 R Packages on CRAN:
 
 - [bbk](https://github.com/m-muecke/bbk)
+- [checkstring](https://github.com/m-muecke/checkstring)
 - [ifo](https://github.com/m-muecke/ifo)
 - [isocountry](https://github.com/m-muecke/isocountry)
 - [treasury](https://github.com/m-muecke/treasury)
