@@ -5,6 +5,7 @@ Mainly interested in statistics, machine learning, and finance.
 - [bbk](https://github.com/m-muecke/bbk)
 - [checkstring](https://github.com/m-muecke/checkstring)
 - [gleifr](https://github.com/m-muecke/gleifr)
+- [gmeans](https://github.com/m-muecke/gmeans)
 - [ifo](https://github.com/m-muecke/ifo)
 - [isocountry](https://github.com/m-muecke/isocountry)
 - [treasury](https://github.com/m-muecke/treasury)
